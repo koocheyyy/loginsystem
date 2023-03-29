@@ -13,7 +13,7 @@ You can install these packages by running ```pip install -r requirements.txt``` 
 ## Usage
 Activate your virtual environment by running source venv/bin/activate in your terminal.
 
-Run the code by typing uvicorn main:app --reload in your terminal.
+Run the code by typing ``` uvicorn main:app --reload ``` in your terminal.
 
 Navigate to ```http://localhost:8000/static/index.html```
 
